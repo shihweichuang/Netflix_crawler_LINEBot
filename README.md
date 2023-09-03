@@ -87,122 +87,122 @@
 
 1. 使用者輸入 ---> 文字【查詢】<br>
    系統回傳 ---> Bubble【查詢】
-<img src="https://i.imgur.com/cfiKwoN.jpg" alt="Netflix專案_1" width="278" height="369">
+<img src="https://i.imgur.com/cfiKwoN.jpg" alt="Bubble【查詢】" width="278" height="369">
 <br>
 2. 使用者點擊 ---> Bubble【查詢】中的按鈕【新片】<br>
    系統帶入 ---> 文字【Netflix 台灣 新片】<br>
    系統回傳 ---> Bubble【新片清單】
-<img src="https://i.imgur.com/TVEf4Rn.jpg" alt="Netflix專案_2" width="278" height="335">
+<img src="https://i.imgur.com/TVEf4Rn.jpg" alt="Bubble【新片清單】" width="278" height="335">
 
 ## 新片(含影片簡介)
 
 1. 使用者點擊 ---> Bubble【新片清單】中的按鈕【含影片簡介】<br>
    系統帶入 ---> 文字【Netflix 台灣 新片(含簡介) --- 1-20】<br>
    系統回傳 ---> 文字【Netflix 新片(含簡介) 1-20】 + Bubble【換頁按鈕】
-<img src="https://i.imgur.com/L3ORxEU.jpg" alt="Netflix專案_3" width="278" height="446">
-<img src="https://i.imgur.com/xu6puEJ.jpg" alt="Netflix專案_4" width="278" height="476">
+<img src="https://i.imgur.com/L3ORxEU.jpg" alt="文字【Netflix 新片(含簡介) 1-20】" width="278" height="446">
+<img src="https://i.imgur.com/xu6puEJ.jpg" alt="Bubble【換頁按鈕】" width="278" height="476">
 
 2. 使用者點擊 ---> Bubble【換頁按鈕】中的按鈕【21-40】<br>
    系統帶入 ---> 文字【Netflix 台灣 新片(含簡介) --- 21-40】<br>
    系統回傳 ---> 文字【Netflix 新片(含簡介) 21-40】 + Bubble【換頁按鈕】
-<img src="https://i.imgur.com/pD8CZX3.jpg" alt="Netflix專案_" width="278" height="476">
-<img src="https://i.imgur.com/vuiLHSZ.jpg" alt="Netflix專案_" width="278" height="476">
+<img src="https://i.imgur.com/pD8CZX3.jpg" alt="文字【Netflix 新片(含簡介) 21-40】" width="278" height="476">
+<img src="https://i.imgur.com/vuiLHSZ.jpg" alt="Bubble【換頁按鈕】" width="278" height="476">
 
 3. 使用者點擊 ---> Bubble【換頁按鈕】中的按鈕【41-60】<br>
    系統帶入 ---> 文字【Netflix 台灣 新片(含簡介) --- 41-60】<br>
    系統回傳 ---> 文字【Netflix 新片(含簡介) 41-60】 + Bubble【換頁按鈕】
-<img src="https://i.imgur.com/8WFgISD.jpg" alt="Netflix專案_" width="278" height="469">
-<img src="https://i.imgur.com/ACLnE9U.jpg" alt="Netflix專案_" width="278" height="476">
+<img src="https://i.imgur.com/8WFgISD.jpg" alt="文字【Netflix 新片(含簡介) 41-60】" width="278" height="469">
+<img src="https://i.imgur.com/ACLnE9U.jpg" alt="Bubble【換頁按鈕】" width="278" height="476">
 
 ## 新片(不含影片簡介)
 
 1. 使用者輸入 ---> 文字【查詢】<br>
    系統回傳 ---> Bubble【查詢】
-<img src="https://i.imgur.com/cfiKwoN.jpg" alt="Netflix專案_1" width="278" height="369">
+<img src="https://i.imgur.com/cfiKwoN.jpg" alt="Bubble【查詢】" width="278" height="369">
 
 2. 使用者點擊 ---> Bubble【查詢】中的按鈕【新片】<br>
    系統帶入 ---> 文字【Netflix 台灣 新片】<br>
    系統回傳 ---> Bubble【新片清單】
-<img src="https://i.imgur.com/TVEf4Rn.jpg" alt="Netflix專案_2" width="278" height="335">
+<img src="https://i.imgur.com/TVEf4Rn.jpg" alt="Bubble【新片清單】" width="278" height="335">
 
 3. 使用者點擊 ---> Bubble【新片清單】中的按鈕【不含影片簡介】<br>
    系統帶入 ---> 文字【Netflix 台灣 新片(不含簡介) --- 1-20】<br>
    系統回傳 ---> 文字【Netflix 新片(不含簡介) 1-20】 + Bubble【換頁按鈕】
-<img src="https://i.imgur.com/HZzH6uJ.jpg" alt="Netflix專案_" width="278" height="476">
-<img src="https://i.imgur.com/A5Gj3xp.jpg" alt="Netflix專案_" width="278" height="476">
+<img src="https://i.imgur.com/HZzH6uJ.jpg" alt="文字【Netflix 新片(不含簡介) 1-20】" width="278" height="476">
+<img src="https://i.imgur.com/A5Gj3xp.jpg" alt="Bubble【換頁按鈕】" width="278" height="476">
 
 4. 使用者點擊 ---> Bubble【換頁按鈕】中的按鈕【21-40】<br>
    系統帶入 ---> 文字【Netflix 台灣 新片(不含簡介) --- 21-40】<br>
    系統回傳 ---> 文字【Netflix 新片(不含簡介) 21-40】 + Bubble【換頁按鈕】
-<img src="https://i.imgur.com/fv36iCT.jpg" alt="Netflix專案_" width="278" height="476">
-<img src="https://i.imgur.com/2DHfP1G.jpg" alt="Netflix專案_" width="278" height="476">
+<img src="https://i.imgur.com/fv36iCT.jpg" alt="文字【Netflix 新片(不含簡介) 21-40】" width="278" height="476">
+<img src="https://i.imgur.com/2DHfP1G.jpg" alt="Bubble【換頁按鈕】" width="278" height="476">
 
 5. 使用者點擊 ---> Bubble【換頁按鈕】中的按鈕【41-60】<br>
    系統帶入 ---> 文字【Netflix 台灣 新片(不含簡介) --- 41-60】<br>
    系統回傳 ---> 文字【Netflix 新片(不含簡介) 41-60】 + Bubble【換頁按鈕】
-<img src="https://i.imgur.com/C9w1KPv.jpg" alt="Netflix專案_" width="278" height="476">
-<img src="https://i.imgur.com/x9pQWEe.jpg" alt="Netflix專案_" width="278" height="476">
+<img src="https://i.imgur.com/C9w1KPv.jpg" alt="文字【Netflix 新片(不含簡介) 41-60】" width="278" height="476">
+<img src="https://i.imgur.com/x9pQWEe.jpg" alt="Bubble【換頁按鈕】" width="278" height="476">
 
 ## Top 10 電影(含簡介)
 
 1. 使用者輸入 ---> 文字【查詢】<br>
    系統回傳 ---> Bubble【查詢】
-<img src="https://i.imgur.com/cfiKwoN.jpg" alt="Netflix專案_1" width="278" height="369">
+<img src="https://i.imgur.com/cfiKwoN.jpg" alt="Bubble【查詢】" width="278" height="369">
 
 2. 使用者點擊 ---> Bubble【查詢】中的按鈕【Top 10 電影】<br>
    系統帶入 ---> 文字【Netflix 台灣 Top 10 電影】<br>
    系統回傳 ---> Bubble【Top 10 電影】
-<img src="https://i.imgur.com/DJZK4ux.jpg" alt="Netflix專案_" width="278" height="337">
+<img src="https://i.imgur.com/DJZK4ux.jpg" alt="Bubble【Top 10 電影】" width="278" height="337">
 
 3. 使用者點擊 ---> Bubble【Top 10 電影】中的按鈕【含影片簡介】<br>
    系統帶入 ---> 文字【Netflix 台灣 Top 10 電影(含簡介)】<br>
    系統回傳 ---> 文字【Netflix 台灣 Top 10 電影(含簡介)】
-<img src="https://i.imgur.com/ZntwLdE.jpg" alt="Netflix專案_" width="278" height="476">
+<img src="https://i.imgur.com/ZntwLdE.jpg" alt="文字【Netflix 台灣 Top 10 電影(含簡介)】" width="278" height="476">
 
 ## Top 10 電影(不含簡介)
 
 1. 使用者輸入 ---> 文字【查詢】<br>
    系統回傳 ---> Bubble【查詢】
-<img src="https://i.imgur.com/cfiKwoN.jpg" alt="Netflix專案_1" width="278" height="369">
+<img src="https://i.imgur.com/cfiKwoN.jpg" alt="Bubble【查詢】" width="278" height="369">
 
 2. 使用者點擊 ---> Bubble【查詢】中的按鈕【Top 10 電影】<br>
    系統帶入 ---> 文字【Netflix 台灣 Top 10 電影】<br>
    系統回傳 ---> Bubble【Top 10 電影】
-<img src="https://i.imgur.com/DJZK4ux.jpg" alt="Netflix專案_" width="278" height="337">
+<img src="https://i.imgur.com/DJZK4ux.jpg" alt="Bubble【Top 10 電影】" width="278" height="337">
 
 3. 使用者點擊 ---> Bubble【Top 10 電影】中的按鈕【不含影片簡介】<br>
    系統帶入 ---> 文字【Netflix 台灣 Top 10 電影(不含簡介)】<br>
    系統回傳 ---> 文字【Netflix 台灣 Top 10 電影(不含簡介)】
-<img src="https://i.imgur.com/tu8EZaZ.jpg" alt="Netflix專案_" width="278" height="476">
+<img src="https://i.imgur.com/tu8EZaZ.jpg" alt="文字【Netflix 台灣 Top 10 電影(不含簡介)】" width="278" height="476">
 
 ## Top 10 節目(含簡介)
 
 1. 使用者輸入 ---> 文字【查詢】<br>
    系統回傳 ---> Bubble【查詢】
-<img src="https://i.imgur.com/cfiKwoN.jpg" alt="Netflix專案_1" width="278" height="369">
+<img src="https://i.imgur.com/cfiKwoN.jpg" alt="Bubble【查詢】" width="278" height="369">
 
 2. 使用者點擊 ---> Bubble【查詢】中的按鈕【Top 10 節目】<br>
    系統帶入 ---> 文字【Netflix 台灣 Top 10 節目】<br>
    系統回傳 ---> Bubble【Top 10 節目】
-<img src="https://i.imgur.com/n281gKC.jpg" alt="Netflix專案_" width="278" height="334">
+<img src="https://i.imgur.com/n281gKC.jpg" alt="Bubble【Top 10 節目】" width="278" height="334">
 
 3. 使用者點擊 ---> Bubble【Top 10 節目】中的按鈕【含影片簡介】<br>
    自動帶入 ---> 文字【Netflix 台灣 Top 10 節目(含簡介)】<br>
    系統回傳 ---> 文字【Netflix 台灣 Top 10 節目(含簡介)】
-<img src="https://i.imgur.com/qkMl0Iu.jpg" alt="Netflix專案_" width="278" height="476">
+<img src="https://i.imgur.com/qkMl0Iu.jpg" alt="文字【Netflix 台灣 Top 10 節目(含簡介)】" width="278" height="476">
 
 ## Top 10 節目(不含簡介)
 
 1. 使用者輸入 ---> 文字【查詢】<br>
    系統回傳 ---> Bubble【查詢】
-<img src="https://i.imgur.com/cfiKwoN.jpg" alt="Netflix專案_1" width="278" height="369">
+<img src="https://i.imgur.com/cfiKwoN.jpg" alt="Bubble【查詢】" width="278" height="369">
 
 2. 使用者點擊 ---> Bubble【查詢】中的按鈕【Top 10 節目】<br>
    系統帶入 ---> 文字【Netflix 台灣 Top 10 節目】<br>
    系統回傳 ---> Bubble【Top 10 節目】
-<img src="https://i.imgur.com/n281gKC.jpg" alt="Netflix專案_" width="278" height="334">
+<img src="https://i.imgur.com/n281gKC.jpg" alt="Bubble【Top 10 節目】" width="278" height="334">
 
 3. 使用者點擊 ---> Bubble【Top 10 節目】中的按鈕【不含影片簡介】<br>
    系統帶入 ---> 文字【Netflix 台灣 Top 10 節目(不含簡介)】<br>
    系統回傳 ---> 文字【Netflix 台灣 Top 10 節目(不含簡介)】
-<img src="https://i.imgur.com/q2tupwU.jpg" alt="Netflix專案_" width="278" height="476">
+<img src="https://i.imgur.com/q2tupwU.jpg" alt="文字【Netflix 台灣 Top 10 節目(不含簡介)】" width="278" height="476">
